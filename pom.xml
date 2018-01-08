@@ -71,7 +71,7 @@
 					<muleVersion>3.7.2</muleVersion>
 					<username>qwerty6</username>
 					<password>Qwerty6</password>
-					<applicationName>mvntest1</applicationName>
+					<applicationName>httpmvn</applicationName>
 					<target>CloudHub</target>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
